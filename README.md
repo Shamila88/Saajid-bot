@@ -1,9 +1,9 @@
 # Saajid-bot
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩𝟮ꫂ<br></h1>
+<h1 align="center">⫷𝗦𝗔𝗔𝗝𝗜𝗗 𝗕𝗢𝗧⫸<br></h1>
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/8adfac9d34c43ce444fbf.jpg" width="540" height="300" />
+  <img src="https://i.ibb.co/kGWYKkL/Polish-20220926-031232770.jpg" width="540" height="300" />
 
 </p>
 
